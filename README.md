@@ -1,2 +1,5 @@
-# good-readme
-node, npm, fs &amp; inquirer lib
+{
+	"userName": "jonafi",
+	"title": "good-readme",
+	"license": "MIT"
+}
