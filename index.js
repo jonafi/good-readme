@@ -48,12 +48,16 @@ inquirer.prompt([
 
   let filename = "README.md";
   
-  let content = `  
-  ![alt text](https://img.shields.io/github/languages/top/${data.userName}/${data.title} "Top Language Used")
+  let content = `![alt text](https://img.shields.io/github/languages/top/${data.userName}/${data.title} "Top Language Used")
+
   ![alt text](https://img.shields.io/github/license/${data.userName}/${data.title}.svg "License")
+
   ${data.userName}
+
   ${data.title}
+
   ${data.description}
+  
  `;
 
 
