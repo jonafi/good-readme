@@ -47,8 +47,21 @@ inquirer.prompt([
 ]).then(function(data) {
 
   let filename = "README.md";
-  let badge = "![alt text](https://img.shields.io/badge/License-"+ data.license +"-brightgreen)"
-  let finalOutput = badge+data.userName+data.title+data.description;
+  
+  let finalOutput = `
+  
+  ![alt text](https://img.shields.io/badge/License-${data.license}-brightgreen)
+  
+  ${data.userName}
+  ${data.title}
+  ${data.description}
+
+  asdfasfd 
+
+
+      tabed
+  
+  `
 
   fs.writeFile(filename, JSON.stringify(finalOutput, null, '\t'), function(err) {
 
