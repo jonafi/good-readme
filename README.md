@@ -1,8 +1,1 @@
-{
-	"userName": "jonafi",
-	"title": "good-readme",
-	"license": "MIT"
-}
-
-
-![alt text](https://img.shields.io/badge/Has%20a%20static%20badge-CERTIFIED-brightgreen)
+"![alt text](https://img.shields.io/badge/License-MIT-brightgreen)jonafivampire freshnessit's a garlic based toothpaste for suicidal vampires"
