@@ -23,6 +23,26 @@ inquirer.prompt([
     name: "license",
     message: "License Type:"
   },
+  {
+    type: "input",
+    name: "installation",
+    message: "Installation Instructions:"
+  },
+  {
+    type: "input",
+    name: "installation",
+    message: "Installation Instructions:"
+  },
+  {
+    type: "input",
+    name: "usage",
+    message: "Usage Instructions:"
+  },
+  {
+  type: "input",
+  name: "contributors",
+  message: "Additional Authors:"
+  },
   // {
   //   type: "checkbox",
   //   message: "What languages do you know?",
@@ -63,27 +83,26 @@ inquirer.prompt([
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
-  * [Badges](#badges)
+  * [Badges](#additional-badges)
 
 
   ## Installation
 
-  Installation text goes here
+  ${data.installation}
 
 
   ## Usage 
 
-  Provide instructions and examples for use. Include screenshots as needed. 
-
+  ${data.usage}
 
   ## License
 
-  License Text goes here
+  ![alt text](https://img.shields.io/github/license/${data.userName}/${data.title}.svg "License")
 
 
   ## Contributing
 
-  contribution text goes here
+  ${data.contributors}
 
   ## Tests
 
@@ -93,10 +112,9 @@ inquirer.prompt([
 
   Question Text goes here.
 
-  ## Badges
+  ## Additional-Badges
 
   ![alt text](https://img.shields.io/github/languages/top/${data.userName}/${data.title} "Top Language Used")
-  ![alt text](https://img.shields.io/github/license/${data.userName}/${data.title}.svg "License")
 
 
 
