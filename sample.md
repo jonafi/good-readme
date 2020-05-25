@@ -3,7 +3,7 @@
 
   ## Description 
 
-  no
+  a command line interface README generator
 
 
   ## Table of Contents
@@ -14,17 +14,17 @@
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
-  * [Badges](#additional-badges)
+  * [Additional-Badges](#additional-badges)
 
 
   ## Installation
 
-  no
+  npm i inquirer
 
 
   ## Usage 
 
-  no
+  node index.js
 
   ## License
 
@@ -33,15 +33,15 @@
 
   ## Contributing
 
-  no
+  n/a
 
   ## Tests
 
-  Test text goes here.
+  n/a
 
   ## Questions
 
-  Question Text goes here.
+  why?
 
   ## Additional-Badges
 

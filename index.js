@@ -43,6 +43,16 @@ inquirer.prompt([
   name: "contributors",
   message: "Additional Authors:"
   },
+  {
+    type: "input",
+    name: "tests",
+    message: "Tests:"
+  },
+  {
+    type: "input",
+    name: "questions",
+    message: "Questions:"
+    },
   // {
   //   type: "checkbox",
   //   message: "What languages do you know?",
@@ -83,7 +93,7 @@ inquirer.prompt([
   * [Contributing](#contributing)
   * [Tests](#tests)
   * [Questions](#questions)
-  * [Badges](#additional-badges)
+  * [Additional-Badges](#additional-badges)
 
 
   ## Installation
@@ -106,11 +116,11 @@ inquirer.prompt([
 
   ## Tests
 
-  Test text goes here.
+  ${data.tests}
 
   ## Questions
 
-  Question Text goes here.
+  ${data.questions}
 
   ## Additional-Badges
 
