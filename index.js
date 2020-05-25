@@ -48,33 +48,26 @@ inquirer.prompt([
 
   let filename = "README.md";
   
-  let finalOutput = `
-  
+  let content = `  
   ![alt text](https://img.shields.io/badge/License-${data.license}-brightgreen)
-  
   ${data.userName}
   ${data.title}
   ${data.description}
+ `;
 
-  asdfasfd 
 
-
-      tabed
-  
-  `
-
-  fs.writeFile(filename, JSON.stringify(finalOutput, null, '\t'), function(err) {
+  fs.writeFile(filename, content, function(err) {
 
     if (err) {
       return console.log(err);
     }
 
-    console.log("Success!");
-    console.log(data.userName);
-    console.log(data.title);
-    console.log(data.description);
-    console.log(data.license);
-
-
+    
+    // console.log("Success!");
+    // console.log(data.userName);
+    // console.log(data.title);
+    // console.log(data.description);
+    // console.log(data.license);
+    console.log(typeof content)
   });
 });
