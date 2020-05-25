@@ -1,5 +1,5 @@
 
-  # code-quiz
+  # good-readme
 
   ## Description 
 
@@ -28,12 +28,12 @@
 
   ## License
 
-  ![alt text](https://img.shields.io/github/license/jonafi/code-quiz.svg "License")
+  ![alt text](https://img.shields.io/github/license/jonafi/good-readme.svg "License")
 
 
   ## Contributing
 
-  bob
+  no
 
   ## Tests
 
@@ -45,7 +45,7 @@
 
   ## Additional-Badges
 
-  ![alt text](https://img.shields.io/github/languages/top/jonafi/code-quiz "Top Language Used")
+  ![alt text](https://img.shields.io/github/languages/top/jonafi/good-readme "Top Language Used")
 
 
 
