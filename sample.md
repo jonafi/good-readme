@@ -1,9 +1,9 @@
 
-  # test for spacing
+  # code-quiz
 
   ## Description 
 
-  aaaaaaaaaa
+  test for real project
 
 
   ## Table of Contents
@@ -46,8 +46,8 @@
 
   ## Badges
 
-  ![alt text](https://img.shields.io/github/languages/top/jonafi/test for spacing "Top Language Used")
-  ![alt text](https://img.shields.io/github/license/jonafi/test for spacing.svg "License")
+  ![alt text](https://img.shields.io/github/languages/top/jonafi/code-quiz "Top Language Used")
+  ![alt text](https://img.shields.io/github/license/jonafi/code-quiz.svg "License")
 
 
 
