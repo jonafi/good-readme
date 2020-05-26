@@ -31,7 +31,7 @@
   
     node index.js
 
-  
+  Answer the prompts. When complete the new README.md file will be in the root directory.
 
   ## License
 
