@@ -16,10 +16,7 @@
     "url": "https://github.com/jonafi/good-readme/issues"
   },
   "homepage": "https://github.com/jonafi/good-readme#readme",
-  { "dependencies" :
-    { "inquirer" : "*"
-    }
-  }
+
 
 
 
