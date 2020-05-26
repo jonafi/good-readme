@@ -72,7 +72,7 @@ inquirer.prompt([
   // },
 ]).then(function(data) {
 
-  let filename = "SAMPLE.md";
+  let filename = "README.md";
   let content = `
   # ${data.title}
 
