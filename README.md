@@ -19,12 +19,19 @@
 
   ## Installation
 
-  npm i inquirer
+  Clone the repository with the following command:
+  
+  *git clone git@github.com:jonafi/good-readme.git*
+
 
 
   ## Usage 
 
-  node index.js
+  navigate to the good-readme folder and enter the following command:
+  
+  *node index.js*
+
+  
 
   ## License
 
@@ -33,7 +40,7 @@
 
   ## Contributing
 
-  none
+  None
 
   ## Tests
 
