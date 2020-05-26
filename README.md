@@ -33,10 +33,11 @@
 
   Answer the prompts. When complete the new README.md file will be in the root directory.
   
-  ![Visual Studio Code Preview](/images/vscode.png)
+   [![Demo Video](/images/demo.jpg)](https://drive.google.com/file/d/1Wy7mGEV0Btck6JgnaWz83awavqWntrI0/view)
   
-  ![Github Example](/images/live.jpg)
-  
+ 
+ ![Visual Studio Code Preview](/images/vscode.png)
+
 
   ## License
 
