@@ -32,6 +32,11 @@
     node index.js
 
   Answer the prompts. When complete the new README.md file will be in the root directory.
+  
+  ![Visual Studio Code Preview](/images/vscode.png)
+  
+  ![Github Example](/images/live.jpg)
+  
 
   ## License
 
