@@ -3,7 +3,7 @@
 
   ## Description 
 
-  a command line interface README generator
+  command line readme generator
 
 
   ## Table of Contents
@@ -19,7 +19,7 @@
 
   ## Installation
 
-  npm i inquirer
+  nmp i inquirer
 
 
   ## Usage 
@@ -41,7 +41,7 @@
 
   ## Questions
 
-  why?
+  Why is an orange?
 
   ## Additional-Badges
 

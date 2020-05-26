@@ -19,10 +19,16 @@ inquirer.prompt([
     message: "Please describe the project:"
   },
   {
-    type: "input",
-    name: "license",
-    message: "License Type:"
-  },
+      type: "list",
+      message: "License Type:",
+      name: "license",
+      choices: [
+        "MIT", 
+        "GNU", 
+        "ISC", 
+        "Apache"
+      ]
+    },
   {
     type: "input",
     name: "installation",
@@ -64,16 +70,6 @@ inquirer.prompt([
   //     "MySQL"
   //   ]
   // },
-  // {
-  //   type: "list",
-  //   message: "Please select license type:",
-  //   name: "license",
-  //   choices: [
-  //     "MIT",
-  //     "ISC",
-  //     "GNU"
-  //   ]
-  // }
 ]).then(function(data) {
 
   let filename = "SAMPLE.md";
@@ -142,12 +138,6 @@ inquirer.prompt([
     if (err) {
       return console.log(err);
     }
-
-    
-    // console.log(data.userName);
-    // console.log(data.title);
-    // console.log(data.description);
-    // console.log(data.license);
 
   });
 });
