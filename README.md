@@ -27,7 +27,7 @@
 
   ## Usage 
 
-  navigate to the good-readme folder and enter the following command:
+  Navigate to the good-readme folder and enter the following command:
   
     node index.js
 
