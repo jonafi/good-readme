@@ -21,7 +21,7 @@
 
   Clone the repository with the following command:
   
-    *git clone git@github.com:jonafi/good-readme.git*
+    git clone git@github.com:jonafi/good-readme.git
 
 
 
@@ -29,7 +29,7 @@
 
   navigate to the good-readme folder and enter the following command:
   
-    *node index.js*
+    node index.js
 
   
 
