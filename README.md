@@ -47,14 +47,6 @@ Answer the prompts. When complete, the new SAMPLE.md file will be in the root di
 ![alt text](https://img.shields.io/github/license/jonafi/good-readme.svg "License")
 
 
-## Contributing
-
-None
-
-## Tests
-
-n/a
-
 ## Questions
 
 Please direct any questions to jonafi@gmail.com
@@ -66,7 +58,7 @@ Here is my profile picture for some reason:
 
 ## Additional-Badges
 
-![alt text](https://img.shields.io/github/languages/top/jonafi/good-readme "Top Language Used")
+![Top Language](https://img.shields.io/github/languages/top/jonafi/good-readme "Top Language Used")
 
 
 
