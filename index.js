@@ -70,7 +70,7 @@ async function makeReadMe() {
     );
    //console.log(data.avatar_url)
       let profilePic = data.avatar_url;
-      let filename = "README.md";
+      let filename = "sample.md";
       //to do fix weird tabbing issue;
       let content = `
 # ${user.title}
