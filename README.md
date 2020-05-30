@@ -23,7 +23,9 @@
   
     git clone git@github.com:jonafi/good-readme.git
 
-
+  Install all the dependencies with the following command:
+  
+    npm i
 
   ## Usage 
 
@@ -31,7 +33,7 @@
   
     node index.js
 
-  Answer the prompts. When complete the new README.md file will be in the root directory.
+  Answer the prompts. When complete, the new README.md file will be in the root directory.
   
   ### Demo Video
    [![Demo Video](/images/demo.jpg)](https://drive.google.com/file/d/1Wy7mGEV0Btck6JgnaWz83awavqWntrI0/view)
