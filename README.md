@@ -21,17 +21,17 @@ Command Line Interface to create a good README file
 
 Clone the repository with the following command:
 
-git clone git@github.com:jonafi/good-readme.git
+    git clone git@github.com:jonafi/good-readme.git
 
 Install all the dependencies with the following command:
 
-npm i
+    npm i
 
 ## Usage 
 
 Navigate to the good-readme folder and enter the following command:
 
-node index.js
+    node index.js
 
 Answer the prompts. When complete, the new SAMPLE.md file will be in the root directory.
 
