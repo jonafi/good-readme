@@ -39,7 +39,7 @@ Answer the prompts. When complete, the new SAMPLE.md file will be in the root di
 [![Demo Video](/images/demo.jpg)](https://drive.google.com/file/d/1Wy7mGEV0Btck6JgnaWz83awavqWntrI0/view)
 
 ### Sample File Preview 
-![Visual Studio Code Preview](/images/vscode.png)
+![Visual Studio Code Preview](/images/vscode2.png)
 
 
 ## License
