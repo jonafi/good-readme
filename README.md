@@ -36,7 +36,7 @@ Navigate to the good-readme folder and enter the following command:
 Answer the prompts. When complete, the new SAMPLE.md file will be in the root directory.
 
 ### Demo Video
-[![Demo Video](/images/demo.jpg)](https://drive.google.com/file/d/1Wy7mGEV0Btck6JgnaWz83awavqWntrI0/view)
+[![Demo Video](/images/demo.jpg)](https://drive.google.com/file/d/1wmNtKzPCvqgQdlYOBhpsOzy-Z9j6Tmag/view)
 
 ### Sample File Preview 
 ![Visual Studio Code Preview](/images/vscode2.png)
