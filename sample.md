@@ -1,9 +1,9 @@
 
-# good-readme
+# titleizer
 
 ## Description 
 
-CLI for github README file
+a small group of monkies in a taxi
 
 
 ## Table of Contents
@@ -19,38 +19,38 @@ CLI for github README file
 
 ## Installation
 
-npm i
+throw a banana into a volcano
 
 
 ## Usage 
 
-node index.js
+eat sleep rave repeat
 
 ## License
 
-![alt text](https://img.shields.io/github/license/jonafi/good-readme.svg "License")
+![alt text](https://img.shields.io/github/license/schlem/titleizer.svg "License")
 
 
 ## Contributing
 
-none
+alan smithy
 
 ## Tests
 
-pending
+none
 
 ## Questions
 
-Please direct any questions to jonafi@gmail.com
+Please direct any questions to schlem@schlem.com
 
 Here is my profile picture for some reason:
 
-![Profile Picture](https://avatars2.githubusercontent.com/u/15129952?v=4)
+![Profile Picture](https://avatars.githubusercontent.com/u/9662769?v=4)
 
 
 ## Additional-Badges
 
-![alt text](https://img.shields.io/github/languages/top/jonafi/good-readme "Top Language Used")
+![alt text](https://img.shields.io/github/languages/top/schlem/titleizer "Top Language Used")
 
 
 

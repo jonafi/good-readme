@@ -106,5 +106,5 @@ dist
 # DS_Store files
 .DS_Store
 
-#npm package lock
-package-lock.json
+#sample file generated
+sample.md
